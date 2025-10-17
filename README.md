@@ -10,7 +10,7 @@ This tool can be used for:
 - Background map generation for data visualization  
 - Simulation environments for robotics or autonomous systems  
 
-See SHANGHAI_RAW.png as an example.
+See SHANGHAI.png as an example. The picture without blackline can serve as an example.
 ---
 
 ## 🧩 Features
