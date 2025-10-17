@@ -10,6 +10,7 @@ This tool can be used for:
 - Background map generation for data visualization  
 - Simulation environments for robotics or autonomous systems  
 
+See SHANGHAI.png as an example.
 ---
 
 ## 🧩 Features
@@ -92,15 +93,8 @@ Example: with `19 × 41` tiles of `1236×706` pixels → about **23,484 × 28,94
 
 ---
 
-## 🧭 Future Improvements
-- Asynchronous capture and multi-threading  
-- Automatic skip for failed map loads  
-- Config file for easier customization  
-- Optional support for Google Maps / OpenStreetMap  
-
----
 
 ## 👤 Author
 **Mingrui Li**  
-University of Michigan – Robotics & Mechanical Engineering  
+University of Michigan – Computer Science
 📧 cldflpr@umich.edu
