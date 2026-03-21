@@ -91,10 +91,4 @@ Example: with `19 × 41` tiles of `1236×706` pixels → about **23,484 × 28,94
 - Works best on **Windows** (uses `win32api` and `ctypes.windll` for mouse control).  
   Mac/Linux users need to replace mouse-related calls.
 
----
 
-
-## 👤 Author
-**Mingrui Li**  
-University of Michigan – Computer Science
-📧 cldflpr@umich.edu
